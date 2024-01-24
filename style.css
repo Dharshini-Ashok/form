@@ -1,0 +1,33 @@
+body{
+    background-image: linear-gradient(rgb(28, 68, 102),rgb(154, 208, 194),rgb(236, 244, 214));
+    background-repeat: no-repeat;
+    height: 1500px;
+    margin:50px;
+}
+header
+{
+    background-color: rgb(31, 76, 93);
+    height: 100px;
+    
+    
+}   
+.container{
+
+
+background-color: rgb(47, 122, 123);
+border-radius: 20px;
+float:center;
+-webkit-text-fill-color: rgb(7, 7, 7);
+margin-top: 65px;
+padding: 45px;
+
+}
+img{
+width: 230px;
+height: 475px;
+float: right;
+margin-bottom: 0px;
+position: relative;
+padding-bottom: 170px;
+
+}
